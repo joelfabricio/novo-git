@@ -1,3 +1,3 @@
-Function mostraNome(nome){
+function mostraNome(nome){
     return nome
 }
